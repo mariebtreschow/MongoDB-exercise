@@ -1,0 +1,19 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "``` # open the mongo shell mongo # switch to your db, for example  \"mongoBasics\" > use mongoBasics # load the seed.js file > load('./path/to/seed.js') # check out the data you have! > db.getCollectionNames() ```",
+  "main": "seed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariebtreschow/MongoDB-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariebtreschow/MongoDB-exercise/issues"
+  },
+  "homepage": "https://github.com/mariebtreschow/MongoDB-exercise#readme"
+}
