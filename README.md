@@ -1,4 +1,4 @@
-# treehouse-mongo-basics
+
 ## How To
 ```
 # open the mongo shell
